@@ -1,4 +1,5 @@
 # trit-core-engine
+   Documentation only. Core implementation is private (patent applications filed).
 A deterministic ternary execution engine (Allow / Hold / Deny) for safe AI action. The core of AIDE OS.
 TRIT CORE — Deterministic Ternary Execution Engine
 TRIT CORE is a deterministic execution engine that evaluates AI actions using three physical states:
