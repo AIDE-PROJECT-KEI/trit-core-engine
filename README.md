@@ -33,7 +33,7 @@ These are architectural limitations, not bugs.
 
 TRIT CORE introduces a third physical state—HOLD—to represent uncertainty and prevent unsafe execution.
 
-This is the world’s first ternary execution boundary for AI.
+Unlike prompt filters, it governs execution authority outside the model.
 
 Core Principles
 1. Ternary Logic (Allow / Hold / Deny)
